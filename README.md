@@ -116,19 +116,8 @@ gridpro/
 
 ## Screenshots
 
-Add a couple of screenshots to showcase the UI.
-
-![Screenshot hero](/public/screenshot-hero.png)
-![Screenshot hero](/public/screenshot-hero-2.png)
-
-```html
-<!-- Example embed -->
-<p align="center">
-  <img src="docs/screenshot-01.png" alt="GridPro screenshot" width="800" />
-</p>
-```
-
----
+![Gridpro screenshot](./screenshot-hero.png)
+![Gridpro screenshot](./screenshot-hero-2.png)
 
 ## Roadmap
 
