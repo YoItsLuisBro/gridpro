@@ -118,10 +118,8 @@ gridpro/
 
 Add a couple of screenshots to showcase the UI.
 
-```
-/docs/screenshot-01.png
-/docs/screenshot-02.png
-```
+![Screenshot hero]["./public/screenshot-hero.png"]
+![Screenshot hero]["./public/screenshot-hero-2.png"]
 
 ```html
 <!-- Example embed -->
